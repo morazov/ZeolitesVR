@@ -4,7 +4,7 @@ This Unity project implements a virtual reality environment to visualize zeolite
 
 The frameworks are rendered procedurally from pre-computed atomic coordiantes (see [the Zeolite_CIF_Parser repo](https://github.com/morazov/Zeolite_CIF_Parser) for details). All frameworks listed on the [IZA Database of Zeolite Structures](https://america.iza-structure.org/IZA-SC/ftc_table.php) are included in this project, along with a summary of their crystallographic information.
 
-Several display styles are included, allowing for different interaction modes, as [shown below](render-and-interaction-modes).
+Several display styles are included, allowing for different interaction modes, as [shown below](#render-and-interaction-modes).
 
 A selection of small organic molecules may be rendered to gauge the scale and connectivity of pore channels.
 
