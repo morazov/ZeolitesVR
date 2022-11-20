@@ -23,9 +23,11 @@ To directly use a prebuilt version of the project, download and install the incl
 
 ### PCVR
 
+To run the app on your PC and use the PCVR capabilities of your headset download the PCVR folder and run the ZeolitesVR executable.
+
 ### Build and Install Using Unity
 
-If you wish to modify or customize this project, you may clone or fork this directory and open it with Unity (you will need to install all of the required packages). After making the desired changes, build and install the app on your device directly through Unity, or through one of the methods above. Please cite this repository if you wish to publish or share your modified version. Additionally, please cite the original crystallographic data source if you wish to use the data in your own projects:
+If you wish to modify or customize this project, you may clone or fork this repository and open it with Unity (you will need to install all of the required packages). After making the desired changes, build and install the app on your device directly through Unity, or through one of the methods above. Please cite this repository if you wish to publish or share your modified version. Additionally, please cite the original crystallographic data source if you wish to use the data in your own projects:
 Ch. Baerlocher and L.B. McCusker
 Database of Zeolite Structures: http://www.iza-structure.org/databases/
 
