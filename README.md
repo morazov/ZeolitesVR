@@ -19,11 +19,11 @@ Another intuitive way to gain insights about the channels, cages, and side-pocke
 ## Instructions
 ### Installing a Prebuilt Version on a Standalone Device
 
-To directly use a prebuilt version of the project, download and install the included .apk file onto your device. This route has been succesfully tested for an Oculus Quest 2, using the SideQuest app to load an install the .apk file. Once installed, run ZeoliteVR (likely found under the Unknown Sources tab) and follow the in-app instructions. Note: though not tested, in principle, this approach (with minor modifications) should also work for other Android-based stanadlone headsets. If you succeed in installing and running the app on a unique device, please let me know how, so that I may add the instructions to this repo.
+To directly use a prebuilt version of the project, download and install the included [.apk file](Builds/v1.0b1.apk) onto your device. This route has been succesfully tested for an Oculus Quest 2, using the [SideQuest app](https://sidequestvr.com/setup-howto) to load an install the .apk file. Once installed, run ZeoliteVR (likely found under the Unknown Sources tab) and follow the in-app instructions. Note: though not tested, in principle, this approach (with minor modifications) should also work for other Android-based stanadlone headsets. If you succeed in installing and running the app on a unique device, please let me know how, so that I may add the instructions to this repo.
 
 ### PCVR
 
-To run the app on your PC and use the PCVR capabilities of your headset download the PCVR folder and run the ZeolitesVR executable.
+To run the app on your PC and use the PCVR capabilities of your headset download the [PCVR folder](Builds/PCVR) and run the [ZeolitesVR](Builds/PCVR/ZeolitesVR.exe) executable.
 
 ### Build and Install Using Unity
 
