@@ -56,7 +56,7 @@ QualitySettings:
     shadowmaskMode: 0
     skinWeights: 2
     textureQuality: 0
-    anisotropicTextures: 0
+    anisotropicTextures: 1
     antiAliasing: 4
     softParticles: 0
     softVegetation: 0
@@ -221,7 +221,8 @@ QualitySettings:
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
     customRenderPipeline: {fileID: 11400000, guid: 19a1e2cd639bfe04aa232195af64d728, type: 2}
-    excludedTargetPlatforms: []
+    excludedTargetPlatforms:
+    - Server
   m_PerPlatformDefaultQuality:
     Android: 1
     Lumin: 5
@@ -229,6 +230,7 @@ QualitySettings:
     Nintendo Switch: 5
     PS4: 5
     PSP2: 2
+    Server: 0
     Stadia: 5
     Standalone: 5
     WebGL: 3
