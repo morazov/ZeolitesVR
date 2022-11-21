@@ -12,6 +12,10 @@ A selection of small organic molecules may be rendered to gauge the scale and co
 
 The default settings for rendering and interacting with the zeolite framework result in a spacefilling representation of a large scale static framework. For visual clarity 6-membered rings and smaller (i.e., rings too small for significant molecular diffusion) are shaded. The user may navigate the framework structure to get a unique perspective of the morphology of the pores and cages. This experience in VR is difficult to appreciate through a 2D video, which makes the interaction seem similar to viewing a molecular model on a computer screen. The 360° video below is more representative and should be viewed in VR.
 
+| [![Click to Play](https://img.youtube.com/vi/N912hPK8uY8/0.jpg)](https://www.youtube.com/watch?v=N912hPK8uY8) |
+|:--:|
+| *Default Display Settings - 2D Video* |
+
 Alternatively, the user may render the framework using the Si-O bond representation that may be familiar to researchers that have tediously constructed physical bonded-tetrahedra models in order to develop intuition about the symmetry and structure of a framework. The model may be rendered at different scales, with the smaller sizes giving a sense of a hand-held model, especially when the static rendering mode is disabled and the small rings are not shaded.
 
 Another intuitive way to gain insights about the channels, cages, and side-pockets of a framework is to probe them with small organic molecules. The molecules are rendered in a space-filling style that, in conjunction with the space-filling representation of the framework, provides a first-order approximation of molecular fit. ***Note:** to maintain acceptable performance on stand-alone devices, the current version of the project does not support intramolecular rotations, so separate molecular models are needed in order to consider conformers. Furthermore, no attempts are made at molecular dynamics or other energy minimization schemes, so molecular collisions are treated as rigid body collisions by the Unity physics engine.*
