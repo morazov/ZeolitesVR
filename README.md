@@ -25,10 +25,10 @@ The default settings for rendering and interacting with the zeolite framework re
 
   <tr>
   <td>
-      2D Video of the FAU framework - Click to Play
+      2D video of FAU - click to play
   </td> 
   <td>
-      360° VR Video - Click to Play
+      360° VR video of LTA - click to play
   </td> 
   </tr>
   
@@ -36,14 +36,61 @@ The default settings for rendering and interacting with the zeolite framework re
 
 
 
-Alternatively, the user may render the framework using the Si-O bond representation that may be familiar to researchers that have tediously constructed physical bonded-tetrahedra models in order to develop intuition about the symmetry and structure of a framework. The model may be rendered at different scales, with the smaller sizes giving a sense of a hand-held model, especially when the static rendering mode is disabled and the small rings are not shaded.
+[Alternatively](#wireframe-settings), the user may render the framework using the Si-O bond representation that may be familiar to researchers that have tediously constructed physical bonded-tetrahedra models in order to develop intuition about the symmetry and structure of a framework. The model may be rendered at different scales, with the smaller sizes giving a sense of a hand-held model, especially when the static rendering mode is disabled and the small rings are not shaded.
+
+<table align="center" id="wireframe-settings">
+  <tr>
+  <th>
+    <a href="https://www.youtube.com/watch?v=4_MP6G57NfI"><img src="https://user-images.githubusercontent.com/92121568/203161009-e4013db2-bd95-4585-a864-c3e92bfae180.png" alt="Click to Play" height="300"></a>
+    
+  </th> 
+ 
+  <tr>
+  <td>
+      2D video of MOR rendered in a dynamic wireframe mode - click to play
+  </td> 
+  </tr>
+  
+</table>
 
 Another intuitive way to gain insights about the channels, cages, and side-pockets of a framework is to probe them with small organic molecules. The molecules are rendered in a space-filling style that, in conjunction with the space-filling representation of the framework, provides a first-order approximation of molecular fit. ***Note:** to maintain acceptable performance on stand-alone devices, the current version of the project does not support intramolecular rotations, so separate molecular models are needed in order to consider conformers. Furthermore, no attempts are made at molecular dynamics or other energy minimization schemes, so molecular collisions are treated as rigid body collisions by the Unity physics engine.*
+
+<table align="center" id="molecule">
+  <tr>
+  <th>
+    <a href="https://www.youtube.com/watch?v=2HtJUzale8E"><img src="https://user-images.githubusercontent.com/92121568/203166601-8d923542-3e4f-4d39-b7db-86e145dedd1e.png" alt="Click to Play" height="300"></a>
+    
+  </th> 
+
+  <tr>
+  <td>
+      2D video of glucofuranose inside of BEA - click to play
+  </td> 
+  </tr>
+  
+</table>
+
+
+For completeness, the in-app instructions for navigation of and interaction with the app are included here:
+<table align="center" id="instructions">
+  <tr>
+  <th>
+  <img src="https://user-images.githubusercontent.com/92121568/203162709-00671e6e-b580-441c-a1f3-74161bb3bccc.png">
+    
+  </th> 
+ 
+  <tr>
+  <td>
+      Instructions for in-app navigation and interaction
+  </td> 
+  </tr>
+  
+</table>
 
 ## Installation Instructions
 ### Standalone Devices
 
-To directly use a prebuilt version of the project, download and install the included [.apk file](Builds/v1.0b1.apk) onto your device. This route has been successfully tested for an Oculus Quest 2, using the [SideQuest app](https://sidequestvr.com/setup-howto) to load an install the .apk file. Once installed, run ZeoliteVR (likely found under the Unknown Sources tab) and follow the in-app instructions. ***Note:** though not tested, in principle, this approach (with minor modifications) should also work for other Android-based standalone headsets. If you succeed in installing and running the app on a unique device, please let me know how, so that I may add the instructions to this repo.*
+To directly use a prebuilt version of the project, download and install the included [.apk file](Builds/v1.0b1.apk) onto your device. This route has been successfully tested for an Oculus Quest 2, using the [SideQuest app](https://sidequestvr.com/setup-howto) to load and install the .apk file. Once installed, run ZeoliteVR (likely found under the Unknown Sources tab) and follow the in-app instructions. ***Note:** though not tested, in principle, this approach (with minor modifications) should also work for other Android-based standalone headsets. If you succeed in installing and running the app on a unique device, please let me know how, so that I may add the instructions to this repo.*
 
 ### PCVR
 
@@ -54,6 +101,9 @@ To run the app on your PC and use the PCVR capabilities of your headset download
 If you wish to modify or customize this project, you may clone or fork this repository and open it with Unity (you will need to install all of the required packages). After making the desired changes, build and install the app on your device directly through Unity, or through one of the methods above. Please cite this repository if you wish to publish or share your modified version. Additionally, please cite the original crystallographic data source if you wish to use the data in your own projects:\
 Ch. Baerlocher and L.B. McCusker
 Database of Zeolite Structures: http://www.iza-structure.org/databases/
+
+
+
 
 ## Limitations and Future Development
 
