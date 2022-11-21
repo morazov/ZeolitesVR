@@ -10,22 +10,22 @@ A selection of small organic molecules may be rendered to gauge the scale and co
 
 ## Render and Interaction Modes
 
-The default settings for rendering and interacting with the zeolite framework result in a [spacefilling representation](#default-settings) of a large scale static framework. For visual clarity 6-membered rings and smaller (i.e., rings too small for significant molecular diffusion) are shaded. The user may navigate the framework structure to get a unique perspective of the morphology of the pores and cages. This experience in VR is difficult to appreciate through a 2D video, which makes the interaction seem similar to viewing a molecular model on a computer screen. The 360° video below is more representative and should be viewed in VR.
+The default settings for rendering and interacting with the zeolite framework result in a [spacefilling representation](#default-settings) of a large scale static framework. For visual clarity 6-membered rings and smaller (i.e., rings too small for significant molecular diffusion) are shaded. The user may navigate the framework structure to get a unique perspective of the morphology of the pores and cages. This experience in VR is difficult to appreciate through a 2D video, which makes the interaction seem similar to viewing a molecular model on a computer screen. The 360° video below is more representative and should be viewed in VR. Alternatively, you may pan around using your mouse.
 
 <table align="center" id="default-settings">
   <tr>
   <th>
-    <a href="https://www.youtube.com/watch?v=N912hPK8uY8"><img src="https://user-images.githubusercontent.com/92121568/203129122-520d2166-b90a-4bcd-83ce-6ba57793a566.png" alt="Click to Play" width="500"></a>
+    <a href="https://www.youtube.com/watch?v=N912hPK8uY8"><img src="https://user-images.githubusercontent.com/92121568/203129122-520d2166-b90a-4bcd-83ce-6ba57793a566.png" alt="Click to Play" height="300"></a>
     
   </th> 
   <th>
-   <a href="https://www.youtube.com/watch?v="><img src="http://img.youtube.com/vi//0.jpg" alt="Click to Play" width="500"></a>
+   <a href="https://www.youtube.com/watch?v=lQDemClLt44"><img src="https://user-images.githubusercontent.com/92121568/203154322-2d344e0b-8af4-430a-828d-7c4fa69dc75c.png" alt="Click to Play"  height="300"></a>
   </th>
   </tr>
-  
+
   <tr>
   <td>
-      2D Video - Click to Play
+      2D Video of the FAU framework - Click to Play
   </td> 
   <td>
       360° VR Video - Click to Play
