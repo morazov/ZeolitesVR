@@ -15,9 +15,6 @@
 # Recordings can get excessive in size
 /[Rr]ecordings/
 
-# Builds
-*BackUpThisFolder_ButDontShipItWithYourGame*
-*DoNotShip*
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
 
@@ -68,3 +65,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Builds
+!/Builds/*
+*BackUpThisFolder_ButDontShipItWithYourGame*
+*DoNotShip*
