@@ -94,7 +94,7 @@ To directly use a prebuilt version of the project, download and install the incl
 
 ### PCVR
 
-To run the app on your PC and use the PCVR capabilities of your headset download the [PCVR folder](Builds/PCVR) and run the [ZeolitesVR](Builds/PCVR/ZeolitesVR.exe) executable.
+To run the app on your PC and use the PCVR capabilities of your headset download and unzip the [PCVR folder](https://github.com/morazov/ZeolitesVR/raw/main/Builds/PCVR.zip) and run the ZeolitesVR executable.
 
 ### Build with Unity
 
